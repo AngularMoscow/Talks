@@ -1,6 +1,5 @@
 <h1>
   Angular Moscow Meetup
-  <img src="https://meetup.tinkoff.ru/assets/images/event/logo_angular.svg" width="30" height="20" style="float: right" />
 </h1>
 
 <a href="https://meetup.tinkoff.ru/#subscription" target="_blank" style="float: left">
