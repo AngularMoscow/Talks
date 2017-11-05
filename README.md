@@ -1,12 +1,8 @@
 <h1>
-  Angular Meetup by Tinkoff
+  Angular Moscow Meetup
   <img src="https://meetup.tinkoff.ru/assets/images/event/logo_angular.svg" width="30" height="20" style="float: right" />
 </h1>
 
-<a href="https://yandex.ru/maps/213/moscow/?um=constructor%3AYCv8GuMaLknNWuSsMnpGdwYvhFpdU4ed&amp%3Bsource=constructorLink&mode=usermaps&ll=37.494152%2C55.839493&z=16" 
-style="float: left">
-  <b>Место проведения</b>: Москва, БЦ Водный, Головинское шоссе, д. 5
-</a>&emsp;
 <a href="https://meetup.tinkoff.ru/#subscription" target="_blank" style="float: left">
   <b>Подписка</b>
 </a>&emsp;
