@@ -2,10 +2,10 @@
   Angular Moscow Meetup
 </h1>
 
-<a href="https://meetup.tinkoff.ru/#subscription" target="_blank" style="float: left">
+<a href="https://meetup.tinkoff.ru/" target="_blank" style="float: left">
   <b>Подписка</b>
 </a>&emsp;
-<a href="https://meetup.tinkoff.ru/#archive" target="_blank" style="float: left">
+<a href="https://meetup.tinkoff.ru/events" target="_blank" style="float: left">
   <b>Архив</b>
 </a>
 
